@@ -4,22 +4,21 @@ $(function () {
     const visited_countries = [
         'in',  // India
         'my',  // Malaysia
-        'us',  // US
+        'sg',  // Singapore
         'ch',  // Switzerland
-        'fr',  // France
         'ae',  // UAE
-        'il',  // Israel
-        'be',  // Belgium
-        'nl',  // Netherlands
-        'it',  // Italy
+        'th',  // Thailand
+        'cn',  // China
     ]
 
     const visited_states_in_india = [
         'in-wb',
         'in-jk',
         'in-hr',
-        'in-tn',
+        'in-pb',
+        'in-py',
         'in-ap',
+        'in-mp',
         'in-ka',
         'in-mh',
         'in-or',
@@ -28,11 +27,7 @@ $(function () {
         'in-rj',
         'in-up',
         'in-ut',
-        'in-jh',
-        'in-ch',
-        'in-br',
         'in-sk',
-        'in-an'
     ]
 
     const visited_states_in_us = [
