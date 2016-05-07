@@ -1,6 +1,4 @@
-[mrinalmohit.com/travel](http://mrinalmohit.com/travel)
-
-Forked from [Sorabh Bajaj](https://github.com/sb2nov)
+Forked from [Mrinal Mohit](https://github.com/wowitsmrinal)
 
 # Travel
 
