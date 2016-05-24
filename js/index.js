@@ -9,6 +9,7 @@ $(function () {
         'ae',  // UAE
         'th',  // Thailand
         'cn',  // China
+	'fr',  // France
     ]
 
     const visited_states_in_india = [
