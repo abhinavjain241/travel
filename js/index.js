@@ -9,7 +9,9 @@ $(function () {
         'ae',  // UAE
         'th',  // Thailand
         'cn',  // China
-	'fr',  // France
+        'fr',  // France
+        'it',  // Italy
+        'va',  // Vatican City
     ]
 
     const visited_states_in_india = [
