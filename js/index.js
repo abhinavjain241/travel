@@ -12,6 +12,8 @@ $(function () {
         'fr',  // France
         'it',  // Italy
         'va',  // Vatican City
+	'nl',  // Netherlands
+	'be',  // Belgium
     ]
 
     const visited_states_in_india = [
