@@ -33,6 +33,8 @@ $(function () {
         'in-up',
         'in-ut',
         'in-sk',
+	'in-ml',
+	'in-as',
     ]
 
     const visited_states_in_us = [
